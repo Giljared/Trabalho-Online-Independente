@@ -1,5 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3decef60-6d95-40d0-b3e9-4a3f99d2d571/deploy-status)](https://app.netlify.com/sites/trabalhoonlineindependente/deploys)
 
+https://trabalhoonlineindependente.netlify.app/homeoffice
+
+
 # Owl Carousel 2
 
 Touch enabled [jQuery](https://jquery.com/) plugin that lets you create a beautiful, responsive carousel slider. **To get started, check out https://owlcarousel2.github.io/OwlCarousel2/.**
